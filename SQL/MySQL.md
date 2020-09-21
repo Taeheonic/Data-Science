@@ -59,8 +59,8 @@
 
 * 스키마에 새로운 테이블을 만들고 칼럼네임들을 csv파일의 칼럼네임과 같게 만든다
 * csv파일의 칼럼네임이 쓰여져있는 첫 행을 지운다
-* ![image1.png](/https://github.com/Taeheonic/Data-Science/img)
-* ![image2.png](/https://github.com/Taeheonic/Data-Science/img)
+* ![image1.png](/https://github.com/Taeheonic/Data-Science/img/image1.png)
+* ![image2.png](/https://github.com/Taeheonic/Data-Science/img/image2.png)
 * 테이블이 만들어진 것을 확인할 수 있음
 
 ## 명령 프롬프트를 이용하여 csv파일을 import하는법
